@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 8,
+      "subtext" : {
+        "size" : 11,
+        "colorSelected" : "#C9D1D9FF",
+        "font" : "System",
+        "color" : "#8B939EFF"
+      },
+      "shortcut" : {
+        "size" : 20,
+        "colorSelected" : "#C9D1D9FF",
+        "font" : "System",
+        "color" : "#8B939EFF"
+      },
+      "backgroundSelected" : "#0F1218FF",
+      "text" : {
+        "size" : 24,
+        "colorSelected" : "#C9D1D9FF",
+        "font" : "System",
+        "color" : "#8B939EFF"
+      },
+      "iconPaddingHorizontal" : 5,
+      "paddingVertical" : 8,
+      "iconSize" : 40
+    },
+    "search" : {
+      "paddingVertical" : 2,
+      "background" : "#0F1218FF",
+      "spacing" : 10,
+      "text" : {
+        "size" : 36,
+        "colorSelected" : "#000000FF",
+        "font" : "System",
+        "color" : "#C9D1D9FF"
+      },
+      "backgroundSelected" : "#B5D5FFFF"
+    },
+    "window" : {
+      "color" : "#0F1218FF",
+      "paddingHorizontal" : 11,
+      "width" : 680,
+      "borderPadding" : 10,
+      "borderColor" : "#19191900",
+      "blur" : 0,
+      "roundness" : 10,
+      "paddingVertical" : 10
+    },
+    "credit" : "Nonthawat Duangchai",
+    "separator" : {
+      "color" : "#0F1218FF",
+      "thickness" : 1
+    },
+    "scrollbar" : {
+      "color" : "#3A3A3AFF",
+      "thickness" : 2
+    },
+    "name" : "GitHub Dark"
+  }
+}
